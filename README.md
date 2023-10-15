@@ -21,4 +21,4 @@ A great deal of the content is taken or adapted from Jenny Bryan's outstanding s
 
 If you have any questions or concerns, feel free to email me at hglanz@calpoly.edu.
 
-This is my copy of the workshop materials!!!!!!!!!!!! :)
+This is my copy of the workshop materials!!!!!!!!!!!! :) More trials
